@@ -19,6 +19,3 @@ Be aware of Instagram's terms of service and use the bot in accordance with them
 
 ## Contributing:
 Feel free to contribute to this project by submitting pull requests, reporting bugs, or suggesting improvements.
-
-## License:
-This project is licensed under the MIT License - see the LICENSE file for details
